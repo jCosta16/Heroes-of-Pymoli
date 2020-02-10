@@ -3,6 +3,7 @@ Pandas Homework
 * Heros of Pymoli
 
 ## Observable Trends
+
 ### Trend 1
 The biggest Age Group of the Game is the 20-24 group. They represent 44.79% of the players and are the biggest spenders of the game, with a Total Purchase Value of $1,114.06. The 20-24 Age Group represent 46.81% of the Total Revenue of the game.
 
@@ -12,3 +13,6 @@ The second observed trend is the Age Group with the biggest average spent is the
 ### Trend 3
 The third trend is the gender with the biggest average spent is the Female group, representing 14.06% of the players of the game, they had an average spent of $4.47 per person and represent 15.20% of the Total Revenue
 
+## Python code overview
+
+[Jupyter Notebook]( https://nbviewer.jupyter.org/github/jCosta16/pandas-challenge/blob/master/HeroesOfPymoli/HeroesOfPymoli.ipynb)
